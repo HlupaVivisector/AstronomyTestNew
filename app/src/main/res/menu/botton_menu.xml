@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/bottom_home"
+        android:icon="@drawable/icons8_home_50"
+        android:title="Home"/>
+
+    <item
+        android:id="@+id/bottom_search"
+        android:icon="@drawable/icons8_search_50"
+        android:title="Search"/>
+
+    <item
+        android:id="@+id/bottom_favorites"
+        android:icon="@drawable/icons8_favorites_50"
+        android:title="Favorites"/>
+
+    <item
+        android:id="@+id/bottom_other"
+        android:icon="@drawable/baseline_apps_24"
+        android:title="Other"/>
+
+
+</menu>
